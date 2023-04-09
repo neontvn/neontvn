@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanmay Nale
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Software Engineer
+Myself, Tanmay Nale - Software Engineer
 -----------------
 
 A self-proclaimed software geek who started his dev career with web development using HTML, CSS, Javascript before falling in love with React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
