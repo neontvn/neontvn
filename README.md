@@ -4,19 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Myself, Tanmay Nale - Software Engineer
 -----------------
 
-A self-proclaimed software geek who started his dev career with web development using HTML, CSS, Javascript before falling in love with React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
+A software enthusiast who started his dev career with web development using HTML, CSS, Javascript before switching to React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
 
 I am always learning ! 😉 
 
-After a not-so-brief stint in web development 😆 I have been on an exploration mode learning React Native, Flutter, Kubernetes, Docker, Microservices Architecture, Core Java, Spring Framework, Spring Boot and most recently have taken a deep dive into building Cloud native applications with major focus on using AWS ! 
+After a not-so-brief stint in web development 😆 I have explored on learning React Native, Flutter, Kubernetes, Docker, Microservices Architecture, Core Java, Spring Framework, Spring Boot and recently have taken a deep dive into building cloud-native applications using AWS ! 
 
 And there is still a lot more to learn 😎
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [tvnale@gmail.com](mailto:tvnale@gmail.com)
+* 🌍  I'm currently based in the US
+* ✉️  You can contact me at [tnale@ucsd.edu](mailto:tnale@ucsd.edu)
 * 🧠  I'm learning to build scalable applications
 * 🤝  I'm open to collaborating on developing absolutely anything that interests both of us!
-* ⚡  Second Job - Part-time Psychologist when I'm sitting idle 😼
 
 <a href="https://www.github.com/neontvn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/neontvn?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a><a href="https://www.twitter.com/nale_tanmay" target="_blank" rel="noreferrer"><img
