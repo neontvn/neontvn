@@ -1,6 +1,8 @@
 
-Tanmay Nale - Software Engineer
+Tanmay Nale
 -----------------
+MS CS @ UC San Diego (2024-2026)<br>
+Ex-Software Engineer at ION Group 
 
 A software enthusiast who started his dev career with web development using HTML, CSS, Javascript before switching to React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
 
