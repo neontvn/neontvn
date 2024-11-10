@@ -6,9 +6,9 @@ Ex-Software Engineer at ION Group
 
 A software enthusiast who started his dev career with web development using HTML, CSS, Javascript before switching to React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
 
-I am always learning ! 😉 
+I am always learning ! 📚
 
-After a not-so-brief stint in web development 😆 I have explored on learning React Native, Flutter, Kubernetes, Docker, Microservices Architecture, Core Java, Spring Framework, Spring Boot and recently have taken a deep dive into building cloud-native applications using AWS ! 
+After a not-so-brief stint in web development I have explored on learning React Native, Flutter, Kubernetes, Docker, Microservices Architecture, Core Java, Spring Framework, Spring Boot and recently have taken a deep dive into building cloud-native applications using AWS ! 
 
 And there is still a lot more to learn 😎
 
