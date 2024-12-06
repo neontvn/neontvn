@@ -4,13 +4,13 @@ Tanmay Nale
 MS CS @ UC San Diego (2024-2026)<br>
 Ex-Software Engineer at ION Group 
 
-A software enthusiast who started his dev career with web development using HTML, CSS, Javascript before switching to React. I have had a 3 years prior experience working with React, Node.js, Redux and Typescript - building numerous software applications. 
+I am currently pursuing Masters in Computer Science at the University of California San Diego, Specializing in Computer Systems.
 
-I am always learning ! 📚
+Previously, I worked for three years as a Software Development Engineer at ION Group, where I focused on developing scalable, cloud-native multi-tenant SaaS integration platforms.
 
-After a not-so-brief stint in web development I have explored on learning React Native, Flutter, Kubernetes, Docker, Microservices Architecture, Core Java, Spring Framework, Spring Boot and recently have taken a deep dive into building cloud-native applications using AWS ! 
+My primary interests lie in Software Development, Distributed Systems, Cloud Computing, and Data-Driven Solutions, and I am enthusiastic about leveraging technology to tackle complex real-world challenges. I thrive in collaborative environments and am committed to continuous learning and innovation in my field.
 
-And there is still a lot more to learn 😎
+There is still a lot more to learn 😎 Feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/tanmay-nale/) or [Email](mailto:tnale@ucsd.edu).
 
 * 🌍  I'm currently based in the US
 * ✉️  You can contact me at [tnale@ucsd.edu](mailto:tnale@ucsd.edu)
@@ -52,9 +52,3 @@ src="https://img.shields.io/twitter/follow/nale_tanmay?logo=twitter&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/neontvn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tanmay-nale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nale_tanmay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/neontvn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neontvn&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
